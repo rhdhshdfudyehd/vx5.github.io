@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.jesu-ufo.com/</loc>
-    <lastmod>2025-09-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.jesu-ufo.com/blog.html</loc>
-    <lastmod>2025-09-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -273,6 +273,36 @@
   <url>
     <loc>https://www.jesu-ufo.com/blog/wei-xin-lao-hao-gou-mai-yu-shi-yong-zhong-ji-zhi-nan-gao-quan-zhong-zhang-hao-de-jia-zhi-yu-jian-bie-fang-fa.html</loc>
     <lastmod>2025-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jesu-ufo.com/blog/wei-xin-hao-jiao-yi-ping-tai-xuan-ze-zhi-nan-an-quan-he-gui-de-zhang-hao-liu-zhuan-fu-wu-jie-xi.html</loc>
+    <lastmod>2025-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jesu-ufo.com/blog/shi-ming-wei-xin-hao-de-zhong-yao-xing-yu-an-quan-shi-yong-zhi-nan.html</loc>
+    <lastmod>2025-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jesu-ufo.com/blog/wei-xin-hao-gou-mai-zi-dong-fa-huo-ping-tai-xuan-ze-zhi-nan-yu-zhu-yi-shi-xiang.html</loc>
+    <lastmod>2025-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jesu-ufo.com/blog/si-ren-wei-xin-hao-de-he-li-shi-yong-yu-jia-zhi-jie-xi.html</loc>
+    <lastmod>2025-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jesu-ufo.com/blog/gou-mai-wei-xin-hao-de-he-fa-yong-tu-yu-zhu-yi-shi-xiang-quan-mian-zhi-nan.html</loc>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
